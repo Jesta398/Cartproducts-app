@@ -7,9 +7,6 @@ import { Login } from './Components/Login'
 import { NotFound } from './Components/NotFound'
 import { auth, db } from './Config/Config'
 import { CartContextProvider } from './Global/CartContext'
-import { Cart } from './Components/Cart'
-import { AddProducts } from './Components/AddProducts'
-import { Cashout } from './Components/Cashout'
 
 export class App extends Component {
 
